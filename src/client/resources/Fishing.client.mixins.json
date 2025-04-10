@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "TMod.Fishing.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "FishingMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

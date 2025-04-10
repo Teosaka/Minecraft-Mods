@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "TMod.Planting.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "AutoBreakPlantingMixin",
+    "WalkPlantingMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

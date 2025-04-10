@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "TMod.Xray.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "Xray",
+    "LightBlocks"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
